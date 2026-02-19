@@ -40,10 +40,10 @@ https://leetcode.com/problems/design-hashset/description/
 - [844. Backspace String Compare](https://github.com/AlexKir102099/leetcode_com/tree/main/844.%20Backspace%20String%20Compare)
 - [find at least 3 arrays](https://github.com/AlexKir102099/leetcode_com/tree/main/find%20at%20least%203%20arrays)
 - [392. Is Subsequence](https://github.com/SkosMartren/leetcode_com/tree/main/392.%20Is%20Subsequence) -- 1 passes (move T_Idx) : S_Idx += (s[S_Idx]  == t[T_Idx]); if(S_Idx == s.size()){return true;}. no more than min(|s1|,|s2|) editorial distance. Input: s = "abc", t = "ahbgdc" Output: true <--> { $s[i] : 0 \leqslant i \leqslant s.size()$ } $\subset$ { $t[j] : 0 \leqslant j \leqslant t.size()$ }
-- [48. Rotate Image](https://github.com/SkosMartren/leetcode_com/tree/main/48.%20Rotate%20Image) -- rotate the matrix by 90 degrees (clockwise) == транспонировани T : (i,j) -> (j,i) + reverse
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/AlexKir102099/leetcode_com/tree/main/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores) -- sort + 2ptr: nums[i] and nums[k+i-1]
     
   ---
-  
+- [48. Rotate Image](https://github.com/SkosMartren/leetcode_com/tree/main/48.%20Rotate%20Image) -- rotate the matrix by 90 degrees (clockwise) == транспонировани T : (i,j) -> (j,i) + reverse  
 - [2609. Find the Longest Balanced Substring of a Binary String](https://github.com/AlexKir102099/leetcode_com/tree/main/2609.%20Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String)
 - [448. Find All Numbers Disappeared in an Array](https://github.com/AlexKir102099/leetcode_com/tree/main/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [19. Remove Nth Node From End of List](https://github.com/SkosMartren/leetcode_com/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
