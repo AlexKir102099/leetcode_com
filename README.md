@@ -13,10 +13,22 @@ https://leetcode.com/problems/design-hashset/description/
 
 <details>  
 <summary>  SQL </summary>
+
+<details>  
+<summary>  Windows function </summary>
+  
+  -[176. Second Highest Salary](https://github.com/AlexKir102099/leetcode_com/tree/main/176.%20Second%20Highest%20Salary)
+
+</details>  
+  
 <details>  
 <summary>  JOIN </summary>
+  
+  - [175. Combine Two Tables](https://github.com/AlexKir102099/leetcode_com/tree/main/175.%20Combine%20Two%20Tables)
   - [1068. Product Sales Analysis I](https://github.com/AlexKir102099/leetcode_com/tree/main/1068.%20Product%20Sales%20Analysis%20I)
+    
 </details>  
+
 </details>
 
 <details>  
