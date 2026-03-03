@@ -18,6 +18,7 @@ https://leetcode.com/problems/design-hashset/description/
 <summary>  Aggregate function </summary>
   
 - [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/AlexKir102099/leetcode_com/tree/main/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times)
+- [1045. Customers Who Bought All Products](https://github.com/AlexKir102099/leetcode_com/tree/main/1045.%20Customers%20Who%20Bought%20All%20Products)
   
 </details>  
 
