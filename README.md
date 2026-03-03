@@ -15,6 +15,13 @@ https://leetcode.com/problems/design-hashset/description/
 <summary>  SQL </summary>
 
 <details>  
+<summary>  Aggregate function </summary>
+  
+- [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/AlexKir102099/leetcode_com/tree/main/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times)
+  
+</details>  
+
+<details>  
 <summary>  Windows function </summary>
   
   - [177. Nth Highest Salary](https://github.com/AlexKir102099/leetcode_com/tree/main/177.%20Nth%20Highest%20Salary) --> [176. Second Highest Salary](https://github.com/AlexKir102099/leetcode_com/tree/main/176.%20Second%20Highest%20Salary)
