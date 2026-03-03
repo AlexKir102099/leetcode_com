@@ -18,6 +18,7 @@ https://leetcode.com/problems/design-hashset/description/
 <summary>  Windows function </summary>
   
   - [177. Nth Highest Salary](https://github.com/AlexKir102099/leetcode_com/tree/main/177.%20Nth%20Highest%20Salary) --> [176. Second Highest Salary](https://github.com/AlexKir102099/leetcode_com/tree/main/176.%20Second%20Highest%20Salary)
+  - [178. Rank Scores](https://github.com/AlexKir102099/leetcode_com/tree/main/178.%20Rank%20Scores)
 
 </details>  
   
