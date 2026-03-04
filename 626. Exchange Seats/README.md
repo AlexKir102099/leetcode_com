@@ -1,3 +1,3 @@
 https://leetcode.com/problems/exchange-seats/description/
 
-https://walkccc.me/LeetCode/problems/626/
+https://walkccc.me/LeetCode/problems/626/ == W_F
