@@ -1,7 +1,7 @@
 
 ## Contents
 - [WHERE](#where)
-- [DML](#dml)
+-- [DML](#dml)
 
 ---
 
