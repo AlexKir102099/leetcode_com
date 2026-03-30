@@ -1035,10 +1035,6 @@ ______
 
 https://yandex.ru/jobs/pages/dev_interview
 
-У Федора Меньшикова разбор отсут-т!
-
-Архив видео Федора Меньшикова: https://docs.google.com/spreadsheets/d/1w5JqsXFfNTS7NUT7ujKrt8NvhJiw52S6jfvoo2X_fo8/edit?pli=1#gid=0
-
 Yandex Interview Kit: https://docs.google.com/spreadsheets/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/edit?pli=1#gid=0
 
 https://leetcode-company-tagged.vercel.app/yandex
@@ -1047,9 +1043,11 @@ https://leetcode.com/problem-list/oy4y273c/
 
 https://github.com/intsynko/algoritm_tasks/tree/main -- ЗАДАЧИ С СОБЕСА ЯНДЕКСА
 
-Архив условий и решений: https://github.com/doocs/leetcode/tree/main/solution
-
-чтобы зарегестрироваться в https://www.lintcode.com/ -- можно использовать viber (при регистрации по номеру телефона туда приходит верифицированный код)! На этом сайте есть возможность сдать закрытые заадчи с leetcode
+Архив условий и решений: 
+* https://github.com/doocs/leetcode/tree/main/solution
+* https://walkccc.me/LeetCode/
+* Архив видео Федора Меньшикова: https://docs.google.com/spreadsheets/d/1w5JqsXFfNTS7NUT7ujKrt8NvhJiw52S6jfvoo2X_fo8/edit?pli=1#gid=0
+* чтобы зарегестрироваться в https://www.lintcode.com/ -- можно использовать viber (при регистрации по номеру телефона туда приходит верифицированный код)! На этом сайте есть возможность сдать закрытые заадчи с leetcode
 
 Leet Xt v0.3.6
 _________
